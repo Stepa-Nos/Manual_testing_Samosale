@@ -5,9 +5,9 @@
 
 ## 💼 Test case 
 ![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/607228fe-ed71-4e9d-b34a-a2fc67634c6e)
-![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/a45d8f3b-4314-4b39-92f4-409022544720)
+![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/7e5bf466-4803-4026-8f20-647b95afd731)
 ![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/39ce68c4-b352-4560-8d6b-95c14b7aa901)
-![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/8e388f3a-c599-4855-be93-7bdc93efd554)
+![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/e60e30a5-9f6b-414a-9687-238ec56118d1)
 ![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/a94e59ff-3fca-45f7-a28f-ddc36697e713)
 ![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/4d3371cb-2305-4c89-b3df-2e4bb32f1a0a)
 ![image](https://github.com/Stepa-Nos/Testing-Samosale/assets/83469457/405612b8-c5b3-4671-b5a1-6f966f1c3a14)
